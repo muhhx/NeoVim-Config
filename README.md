@@ -12,10 +12,10 @@ https://github.com/tpope/vim-surround
 ### Auto Pairs
 https://github.com/jiangmiao/auto-pairs
 
-### Auto Close Tag (Jsx, html)
+### Auto Close Tag
 https://github.com/alvan/vim-closetag
 
-### Telescope (buscar arquivos e strings dentro do projeto)
+### Telescope
 https://github.com/nvim-telescope/telescope.nvim
 
 ### Coc
